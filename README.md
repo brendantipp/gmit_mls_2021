@@ -13,11 +13,13 @@ This is my Repository for the Machine Learning and Statistics Moudule 2021. it c
 - licence
 
 - skit-learn.ipynb 
-Pyhon file with with overview of Skit-learn and demonstraions of sckit-learn alogrithms
+Python file with with overview of Skit-learn and demonstraions of sckit-learn alogrithms
 
 
 - scipy-stats-ipynb
-
+Python file with overview of scipy stats module
+Anova testing of datasets 
+Add more here re work dataset - how i retrived info and the findings from testing etc 
 
 ### Other folders
 

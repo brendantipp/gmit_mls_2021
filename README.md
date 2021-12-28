@@ -28,6 +28,15 @@ Add more here re work dataset - how i retrived info and the findings from testin
 - /brendan-code/ contains my own test code and lab work
 
 
+### Testing view in nbviewer
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/brendantipp/gmit_mls_2021/blob/main/scikit-learn.ipynb)
+
+
+
+
+https://nbviewer.org/github/brendantipp/gmit_mls_2021/blob/main/scipy-stats.ipynb
+
 
 ## How to Run
 

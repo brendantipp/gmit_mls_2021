@@ -30,12 +30,21 @@ Add more here re work dataset - how i retrived info and the findings from testin
 
 ### Testing view in nbviewer
 
+You can view the skit learn notebook in static form by clicking the image below
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/brendantipp/gmit_mls_2021/blob/main/scikit-learn.ipynb)
 
 
-
-
 https://nbviewer.org/github/brendantipp/gmit_mls_2021/blob/main/scipy-stats.ipynb
+
+You can view the sckit learn notebook in dynamic form by clicking on the following image:
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brendantipp/gmit_mls_2021/HEAD?labpath=scikit-learn.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brendantipp/gmit_mls_2021/HEAD?labpath=scikit-learn.ipynb)
+
+
 
 
 ## How to Run

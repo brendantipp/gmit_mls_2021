@@ -3,7 +3,7 @@
 
 ## About this Repository
 
-This is my Repository for the Machine Learning and Statistics Moudule 2021. it covers the use of the Scikit-Learn and SciPy.stats libraries in Python.
+This is my Repository for the Machine Learning and Statistics Moudule 2021. It covers the use of the Scikit-Learn and SciPy.stats libraries in Python.
 
 
 ## The Repository Contents

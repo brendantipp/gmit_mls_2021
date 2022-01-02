@@ -130,6 +130,18 @@ _________________
 Thanks to GMIT and Course Lecturer Ian McLoughlin and fellow students.
 
 
+_________________
+
+## __Conclusion__
+
+This assignment has given me a great intro to both sckit-learn and scipy stats and I hope you find it intersting.
+
+The Irish Data set is review in sckit learn and is further analysed using some populer categorisation and regression algorithms
+
+The student grades dataset and my own sample work dataset are then analysed using scipy stats using t-Tests and ANOVA
+
+The ANOVA testing on my work dataset proved quiet interesting and sometimes fustrating !! However i feel i have a much better grasp of the concepts and i hope you enjoy reading my findings.
+
 ____________________
 
 ## __Contact Details__
